@@ -30,8 +30,8 @@ Visual Studio for Mac and Visual Studio to enable profiling from within the IDE.
 
 Download the install package for your platform:
 
-- [**macOS**](https://dl.xamarin.com/profiler/profiler-mac.pkg)
-- [**Windows**](https://dl.xamarin.com/profiler/profiler-windows.msi)
+- [**macOS**](https://dl.xamarin.com/profiler/profiler-mac-1.6.9-468.pkg)
+- [**Windows**](https://dl.xamarin.com/profiler/XamarinProfiler.Windows.Installer.1.6.9-468.msi)
 
 Once downloaded, launch the installer to add the Xamarin Profiler to your system.
 
